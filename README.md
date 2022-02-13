@@ -30,3 +30,4 @@ print("Number of columns:",len(df.axes[1]))
 ![OUTPUT](COM.jpg)
 
 ## RESULT:
+Thus python program for reading content from a CSV file is successful.
